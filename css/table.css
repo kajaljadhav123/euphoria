@@ -1,0 +1,88 @@
+table {
+	border-collapse: collapse;
+	}
+
+	table, td, th {
+	border: 1px solid #fff;
+	}
+
+	table {
+
+	border-collapse: collapse;
+	width: 100%;
+	}
+
+	table td, table th {
+	border: 1px solid #ddd;
+	padding: 8px;
+
+
+	}
+	table{overflow-x:scroll;width:100%}
+	table tr:nth-child(even){background-color: #f2f2f2;}
+
+	table tr:hover {background-color: #ddd;}
+
+	table th {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: left;
+	background-color: #4CAF50;
+	color: white;
+	}
+
+    .table-responsive {
+        min-height: .01%;
+        overflow-x: initial;
+        }
+    
+        table{overflow-x:scroll;}
+        .team-single-item .team-item-thumbnail-area:before {
+            border-radius: 50%;
+        }
+        .team-single-item:hover .team-single-social {
+            bottom: 100px;
+            visibility: visible;
+            opacity: 1;
+            left: 60px;
+        }
+        .team-single-item .team-single-social a {
+            color: #fff;
+            border: 1px solid #ddd;
+            line-height: 42px;
+            font-size: 15px;
+            width: 100%;
+            margin-right: 10px;
+            height: 41px;
+            text-align: center;
+            border-radius: 0%;
+        }
+        .table-bordered th, .table-bordered td {
+            border: 1px solid #ffffff;
+        }
+        .table-bordered th, .table-bordered td {
+            border: 1px solid #fff;
+        }
+        .table {
+            box-shadow: 0px 0px 10px #000;
+        }
+        table tr:nth-child(even) {
+            background-color: #bb962e;
+            color: #fff;
+        }
+        .table-striped tbody tr:nth-of-type(odd) {
+            background-color: #bb962e;
+            color: #fff;
+        }
+        table tr:hover {
+            background-color: #dcac1c;
+            color: #fff;
+        }
+        b {
+            font-weight: 700;
+        }
+		.table th, .table td {
+			padding: 0.45rem 0.75rem;
+		}
+      
+        
